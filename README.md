@@ -3,4 +3,4 @@
 what
 =======
 
-基于centos:6包含chef的基础镜像 chef-docker
+基于centos:6.6包含chef的基础镜像 chef-docker
